@@ -1,9 +1,4 @@
-import calculator from './Q1/calculator';
-
-export function abc(){
-  return(<>suraj</>)
-}
-
+import Calculator from './Q1/calculator';
 
 export default function Home() {
   return (
@@ -11,10 +6,7 @@ export default function Home() {
       <div>
       practice_next
       code sand box commit
-      <calculator/>
-      <abc/>
-
-      abc
+      <Calculator/>
       </div>
     </main>
   )

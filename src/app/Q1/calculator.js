@@ -1,5 +1,4 @@
-import react from "react"
-export default function calculator (){
+export default function Calculator (){
     return <>    
     <div>
 <button>suraj</button>
